@@ -17,9 +17,9 @@ Ele foi criado pelo escritor Robert Kirkman e pelo desenhista Charlie Adlard, e 
 
 
 
-Negan é introduzido como o líder de um grupo por volta de 400 sobreviventes nos arredores de Washington, D.C. chamado "**Os Salvadores**". 
+Negan é introduzido como o líder de um grupo de aproximadamente 400 sobreviventes entre os arredores de Washington, D.C. chamado de "**Os Salvadores**". 
 
-Eles subjugam outras comunidades na área,  exigindo deles quantidades injustas de suprimentos em troca proteção contra os zumbis e deles próprios. Negan é considerado o segundo maior vilão depois do Governador.
+Eles subjugam outras comunidades na área,  exigindo quantidades injustas de suprimentos em troca de proteção contra os zumbis e deles próprios. 
 
 ​																																														<img src="https://lumiere-a.akamaihd.net/v1/images/negan_twd_f1e4da5f.jpeg" alt="Os momentos marcantes de Negan em The Walking Dead | Star+ Brasil" style="zoom: 70%;" />
 
@@ -27,7 +27,7 @@ Eles subjugam outras comunidades na área,  exigindo deles quantidades injustas 
 
 
 
-A popularidade do personagem permitiu que ele fosse um dos personagens selecionáveis no videogame Tekken 7, conforme foi revelado no evento EVO 2018.
+A popularidade do personagem permitiu que ele fosse um dos personagens selecionáveis do jogo Tekken 7.
 
 
 
