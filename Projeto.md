@@ -7,7 +7,7 @@ Repositório criado para o Desafio.
 
 **Negan** é um personagem fictício da série de quadrinhos americana The Walking Dead.
 
-Ele foi criado pelo escritor Robert Kirkman e pelo desenhista Charlie Adlard, e é interpretado pelo ator Jeffrey Dean Morgan na série de televisão de mesmo nome do canal AMC.
+Ele foi criado pelo escritor Robert Kirkman e pelo desenhista Charlie Adlard, e é interpretado pelo ator Jeffrey Dean Morgan na série de televisão de mesmo nome do quadrinho.
 
 
 
