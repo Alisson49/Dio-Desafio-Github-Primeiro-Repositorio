@@ -1,7 +1,5 @@
-    Criar workflows eficientes. ...
-    Usar fluxos de trabalho reutilizáveis. ...
-    Concorrência. ...
-    Segurança: Segredos.
-    Segurança: Avaliar vulnerabilidades.
-    Segurança: Usar o hash do commit em vez da tag.
-    Segurança: Substituir pull_request_target por pull_request quando possível.
+Criar novo repositório - git init
+Verificar estado dos arquivos/diretórios - git status
+Adicionar todos os arquivos/diretórios - git add . 
+Comitar informando mensagem - git commit-m "minha mensagem de commit"
+Enviar arquivos/diretórios para o repositório remoto - git push origin main
